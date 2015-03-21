@@ -1,0 +1,56 @@
+Versatile
+=========
+
+The text-based CMS
+------------------
+Default Text: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor 
+invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. 
+	Code/Preformatted: At vero eos et accusam et justo duo dolores et ea rebum. 
+	Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
+	Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
+
+sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, 
+sed diam voluptua.
+
+## Sub-Headline
+At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+no sea takimata sanctus est Lorem ipsum dolor sit amet.
+
+links:
+http://www.loremipsum.de/
+http://www.ericmauser.de/
+
+Lorem Ipsum
+===========
+
+Dolor sit amet
+--------------
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor 
+invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. 
+At vero eos et accusam et justo duo dolores et ea rebum. 
+Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
+sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, 
+sed diam voluptua.
+
+At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+no sea takimata sanctus est Lorem ipsum dolor sit amet.
+
+Sit amet
+--------
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor 
+invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. 
+At vero eos et accusam et justo duo dolores et ea rebum. 
+Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
+sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, 
+diam voluptua.
+
+## At vero eos et accusam
+At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+no sea takimata sanctus est Lorem ipsum dolor sit amet.
+
+## consetetur sadipscing elitr
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
+sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, 
+diam voluptua.
